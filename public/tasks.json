@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "title": "Make Bed",
+      "description": "Straighten up the bed after getting up.",
+      "completed": false,
+      "timestamp": "2024-07-29T07:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Water Plants",
+      "description": "Water the indoor and outdoor plants.",
+      "completed": false,
+      "timestamp": "2024-07-29T09:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Check Emails",
+      "description": "Review and respond to important emails.",
+      "completed": false,
+      "timestamp": "2024-07-29T10:00:00Z"
+    }
+  ]
+  

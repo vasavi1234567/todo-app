@@ -1,0 +1,52 @@
+.task {
+    margin: 10px 0;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #fff;
+    position: relative;
+  }
+  
+  .task h3 {
+    margin: 0;
+    cursor: pointer;
+  }
+  
+  .task.completed {
+    background-color: #eaf4e8;
+    text-decoration: line-through;
+  }
+  
+  .task p {
+    margin: 10px 0;
+  }
+  
+  .task small {
+    display: block;
+    margin-bottom: 10px;
+    color: #666;
+  }
+  
+  .task button {
+    padding: 8px 15px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+    font-size: 14px;
+    margin-right: 5px;
+  }
+  
+  .task button:hover {
+    background-color: #0056b3;
+  }
+  
+  .task button:last-child {
+    background-color: #dc3545;
+  }
+  
+  .task button:last-child:hover {
+    background-color: #c82333;
+  }
+  
